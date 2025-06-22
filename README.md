@@ -6,9 +6,7 @@ A modern, responsive web application built with **React (Vite)** and styled with
 
 ---
 
-## 🔗 Live Demo
 
-➡️ [Visit the deployed site](https://ransarans-portfolio.vercel.app/)
 
 ---
 
